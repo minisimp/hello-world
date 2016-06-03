@@ -1,0 +1,10 @@
+import java.utils.*;
+
+public class AccountTerminal {
+	
+	public static void main(String[] args) {
+		int i = 1;
+		system.out.println(i);
+	
+	}
+}
